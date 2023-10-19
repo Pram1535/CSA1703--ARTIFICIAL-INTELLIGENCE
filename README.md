@@ -2,7 +2,7 @@
 
 LIST OF PROGRAMS
 
-1)Write the python program to solve 8-Puzzle problem
+1)Write the python program to solve 8-Puzzle problem     ====-puzzle8.py
 
 
 2)Write the python program to solve 8-Queen problem
